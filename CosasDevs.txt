@@ -1,0 +1,2 @@
+¿Cuál es el colmo de un dev usando Git?
+—Tener conflictos... ¡hasta con él mismo :(!
