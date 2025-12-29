@@ -45,3 +45,6 @@ Los refranes dominicanos y su sabiduría popular
 
 La moda playera de Semana Santa
 Outfits, selfies y el famoso “tírame una en el agua pa’ que vean que fui”.
+
+Git commit -m "arreglo rápido"
+3 días después: commit -m "arreglo del arreglo del arreglo :("
